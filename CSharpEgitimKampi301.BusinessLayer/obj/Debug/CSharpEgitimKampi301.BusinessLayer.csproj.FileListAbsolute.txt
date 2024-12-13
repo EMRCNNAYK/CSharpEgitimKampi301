@@ -1,2 +1,0 @@
-C:\Users\Emirc\Desktop\C# murat yücedağ\CSharpEgitimKampi301-master\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.csproj.AssemblyReference.cache
-C:\Users\Emirc\Desktop\C# murat yücedağ\CSharpEgitimKampi301-master\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.csproj.CoreCompileInputs.cache
